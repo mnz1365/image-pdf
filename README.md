@@ -8,6 +8,6 @@ convert a images collection to pdf file.<br>
 pip install Pillow
 ```
 # Getting Started
-the function inside a "index.py" file can recive a list of of image as a argument<br>
+the function inside a "index.py" file can receive a list of of image as a argument<br>
 
 for run app properly -> run "index.py" file
